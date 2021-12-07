@@ -1,0 +1,39 @@
+html {
+	padding: 0;
+	margin: 0;
+	background: #000000;
+}
+
+body {
+	padding: 0;
+	margin: 0;
+}
+
+p {
+	margin: 0;
+}
+
+.wrap {
+	width: 200px;
+}
+
+.wrap select, .wrap input, .wrap button {
+	width: 200px;
+	box-sizing: border-box;
+	font-size: 18px;
+}
+
+.wrap .name {
+	color: #ffffff;
+	padding-bottom: 5px;
+}
+
+.wrap .no-data {
+	color: #ffffff;
+	font-size: 14px;
+}
+
+.wrap .high-point {
+	color: #ffffff;
+	font-size: 28px;
+}
